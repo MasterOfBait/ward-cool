@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"ba042f3072f14621ce421d2c5ce72970","lockfileHash":"b450f9a6a3f57e8034e5c21811c7a09a","guessedImports":["dotenv","express","axios","discord.js"],"guessedImportsHash":"128c895d6c9d1e471eb854fb6e129d95"}}}
